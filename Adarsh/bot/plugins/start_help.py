@@ -238,7 +238,7 @@ async def about_handler(bot, message):
 ┣⪼<b>ʟᴀɴɢᴜᴀɢᴇ: ᴘʏᴛʜᴏɴ 3</b>
 ┣⪼<b>ᴏᴡɴᴇʀ : <a href='https://t.me/Spidey_online'>ᴍᴏᴏɴᴋɴɪɢʜᴛ</a></b>
 ┃
-<b>╰━━━━━━━〔ᴘʟᴇᴀsʀ sᴜᴘᴘᴏʀᴛ〕</b>""",
+<b>╰━━━━━━━〔ᴘʟᴇᴀsᴇ sᴜᴘᴘᴏʀᴛ〕</b>""",
   
         
         reply_markup=InlineKeyboardMarkup(
